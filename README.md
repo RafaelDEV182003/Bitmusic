@@ -39,7 +39,7 @@ Para baixar, executar e modificar o projeto, você precisa ter instalado em sua 
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/aleretamero/onebitmusic.git
+git clone https://github.com/Rafaeldev182003/onebitmusic.git
 ```
 
 2. Acesse a pasta do projeto
@@ -67,11 +67,7 @@ yarn dev
 
 Obs: o servidor iniciará na porta 3000 - acesse por: <http://localhost:3000/>
 
-## Colaboradores 🤝🤝
 
-| Foto                                                       | Nome                                                 |
-| ---------------------------------------------------------- | ---------------------------------------------------- |
-| <img src="https://github.com/aleretamero.png" width="100"> | [Alexandre Retamero](https://github.com/aleretamero) |
 
 ## Licença
 
